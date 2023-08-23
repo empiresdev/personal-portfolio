@@ -21,5 +21,10 @@
     "tabWidth": 2,
     "trailingComma": "none",
     "semi": false
-  }
+  },
+  "name": "personal-portfolio",
+  "description": "This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "author": ""
 }
